@@ -9,3 +9,5 @@ AndroidManifest.xml and MainActivity.java : Android App codes
 app-debug.apk : Android app
 
 demo.MOV: showing demo on user side, the device being moved in the air to simulate motion of walking, and the app is connecting to the ESP32 and waiting for a ping. Once the ping is sent, the emergency contact will get an sms (screenshot attached)
+
+sos message.jpeg: Shows SOS with co-ordinates recieved by the emergency contact
