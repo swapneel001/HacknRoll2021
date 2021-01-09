@@ -3,3 +3,5 @@ An automatic fall detection wearable sensor for hikers that alerts our app and s
 
 Files:
 fall_test.ino : ESP32 code to detect fall and send bluetooth ping
+AndroidManifest.xml and MainActivity.java : Android App codes
+app-debug.apk : Android app
